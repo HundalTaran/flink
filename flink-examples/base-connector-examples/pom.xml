@@ -30,7 +30,6 @@ under the License.
 
 
     <artifactId>flink-base-connector</artifactId>
-    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
